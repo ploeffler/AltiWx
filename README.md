@@ -6,7 +6,7 @@ Yet another automated satellite station software... With additional features suc
 
 **Note 2: This currently only supports RTL-SDR, support for other SDRs is planned but I am still deciding how I will do it.**
 
-**Note 3: A dockerized version is available [here](https://github.com/ploeffler/AltiWx-Docker).
+**Note 3: A dockerized version is available [here](https://github.com/ploeffler/AltiWx-Docker).**
 
 # What is this?
 
