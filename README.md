@@ -284,7 +284,11 @@ AltiWx will require as dependencies :
 - [libdsp](https://github.com/altillimity/libdsp)
 - [pybind11](https://github.com/pybind/pybind11)
 - [fmt](https://github.com/fmtlib/fmt) 
-- [volk](https://github.com/gnuradio/volk) 
+- [volk](https://github.com/gnuradio/volk)
+
+## Docker
+
+A dockerized version of AltiWx is available [here](https://github.com/ploeffler/AltiWx-Docker).
 
 But also uses the following libraries, included in the repository :
 - [tinywav](https://github.com/mhroth/tinywav)
